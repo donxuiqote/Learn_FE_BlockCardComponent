@@ -3,7 +3,7 @@ The goal is to make a simple block card component.
 
 
 ## First Development
-<h4> The learning outcomes of this Blog Card Component learning project </h4>
+The learning outcomes of this Blog Card Component learning project
 - [Figma] 
 - [CSS] 
 - [HTML]
